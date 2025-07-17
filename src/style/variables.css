@@ -1,0 +1,10 @@
+:root {
+  --primary-color: #3498db;
+  --secondary-color: #2ecc71;
+  --font-family: 'Arial', sans-serif;
+  --font-size: 14px;
+  --line-height: 1.5;
+  --background-color: #f4f4f4;
+  --text-color: #333;
+  --bg-image: url('https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg')
+}
